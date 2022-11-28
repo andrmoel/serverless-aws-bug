@@ -1,0 +1,14 @@
+{
+  "name": "serverless-aws-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andrmoel/serverless-aws-bug.git",
+  "author": "Andreas Moeller <andrmoel@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "serverless deploy"
+  },
+  "devDependencies": {
+    "serverless": "3.25.0"
+  }
+}
