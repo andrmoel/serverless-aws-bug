@@ -9,6 +9,10 @@
     "deploy": "serverless deploy"
   },
   "devDependencies": {
-    "serverless": "3.25.0"
+    "aws-sdk": "2.1247.0",
+    "serverless": "3.24.1"
+  },
+  "resolutions": {
+    "serverless/aws-sdk": "2.1247.0"
   }
 }
