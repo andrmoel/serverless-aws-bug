@@ -10,4 +10,4 @@ provider:
 
 functions:
   test:
-    handler: src/lambda/api/privateCreateDeviceToken.default
+    handler: src/testLambda.default
