@@ -4,7 +4,7 @@ This project reproduces https://github.com/serverless/serverless/issues/11561
 
 ## Setup
 
-1. Setup AWS credentials in `~/aws/credentials`
+1. Setup AWS credentials in `~/.aws/credentials`
 2. Run `yarn install`
 3. Run `yarn deploy`
 
