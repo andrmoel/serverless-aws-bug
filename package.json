@@ -10,5 +10,6 @@
   },
   "devDependencies": {
     "serverless": "3.25.0"
-  }
+  },
+  "packageManager": "yarn@3.3.0"
 }
